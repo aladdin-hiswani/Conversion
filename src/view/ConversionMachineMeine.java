@@ -7,7 +7,7 @@ public class ConversionMachineMeine {
         new StartApp().start();
         
         
-//int [] menuNr = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11};     
+//int [] menuNr = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11};    
 //String [] menuTitel = {"Grund Operationen", "Potenz", "Wurzel", "Brüche Zahlen", "Lineare Funktionen", "Quadratische Funktionen",
 //                        "Primezahlen berechnen", "Quersumme", "Fakultät berechnen", "Memory button erstellen", "Beenden"}; 
 //
